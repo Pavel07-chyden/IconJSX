@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://pavel07-chyden.github.io/IconJSX.git/",
+  "homepage": "https://pavel07-chyden.github.io/IconJSX/",
   "private": true,
   "dependencies": {
     "gh-pages": "^4.0.0",
